@@ -1,0 +1,21 @@
+[submodule "mod-transmog"]
+	path = mod-transmog
+	url = https://github.com/azerothcore/mod-transmog
+[submodule "mod-eluna"]
+	path = mod-eluna
+	url = https://github.com/azerothcore/mod-eluna
+[submodule "mod-autobalance"]
+	path = mod-autobalance
+	url = https://github.com/azerothcore/mod-autobalance
+[submodule "mod-arac"]
+	path = mod-arac
+	url = https://github.com/azerothcore/mod-arac
+[submodule "mod-solo-lfg"]
+	path = mod-solo-lfg
+	url = https://github.com/azerothcore/mod-solo-lfg
+[submodule "eluna-ts"]
+	path = eluna-ts
+	url = https://github.com/azerothcore/eluna-ts
+[submodule "mod-cfbg"]
+	path = mod-cfbg
+	url = https://github.com/azerothcore/mod-cfbg
