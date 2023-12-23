@@ -19,3 +19,16 @@
 [submodule "mod-cfbg"]
 	path = mod-cfbg
 	url = https://github.com/azerothcore/mod-cfbg
+[submodule "mod-learn-spells"]
+	path = mod-learn-spells
+	url = https://github.com/azerothcore/mod-learn-spells
+[submodule "mod-random-enchants"]
+	path = mod-random-enchants
+	url = https://github.com/azerothcore/mod-random-enchants
+[submodule "mod-duel-reset"]
+	path = mod-duel-reset
+	url = https://github.com/azerothcore/mod-duel-reset
+[submodule "mod-npc-spectator"]
+	path = mod-npc-spectator
+	url = https://github.com/Gozzim/mod-npc-spectator
+
