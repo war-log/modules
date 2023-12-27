@@ -3,7 +3,7 @@
 	url = https://github.com/azerothcore/mod-transmog
 [submodule "mod-eluna"]
 	path = mod-eluna
-	url = https://github.com/azerothcore/mod-eluna
+	url = https://github.com/war-log/mod-eluna
 [submodule "mod-autobalance"]
 	path = mod-autobalance
 	url = https://github.com/azerothcore/mod-autobalance
